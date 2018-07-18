@@ -1,0 +1,1 @@
+;;;;localhost;3306;mydb;mydb;1Tst@R09;wardk;;
